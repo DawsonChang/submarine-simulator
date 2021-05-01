@@ -1,0 +1,3 @@
+C:/Users/klaud/Desktop/ComputerGraphics/fogv/submarine-simulator/dependencies/glm/out/build/x64-Debug (domyślnie)/CMakeFiles/glm_dummy.dir
+C:/Users/klaud/Desktop/ComputerGraphics/fogv/submarine-simulator/dependencies/glm/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
+C:/Users/klaud/Desktop/ComputerGraphics/fogv/submarine-simulator/dependencies/glm/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir

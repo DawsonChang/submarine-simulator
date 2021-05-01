@@ -1,0 +1,4 @@
+C:\Users\tiama\Desktop\computer graphic homework\grk-cw8\Debug\grk-cw8.exe
+C:\Users\tiama\Desktop\computer graphic homework\grk-cw8\Debug\grk-cw8.pdb
+C:\Users\klaud\Desktop\ComputerGraphics\fogv\submarine-simulator\Debug\grk-cw8.exe
+C:\Users\klaud\Desktop\ComputerGraphics\fogv\submarine-simulator\Debug\grk-cw8.pdb

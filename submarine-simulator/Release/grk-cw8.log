@@ -1,0 +1,171 @@
+﻿  Boids.cpp
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(44,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(45,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(46,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(88,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(89,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(90,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(115,33): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(116,33): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(117,33): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(143,35): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(144,35): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(145,35): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(171,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(172,73): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(174,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(175,73): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(177,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.cpp(178,73): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Camera.cpp
+  CatmullRom.cpp
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(20,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(21,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(22,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(23,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(42,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(64,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\computer-graphic-project\submarine-simulator\src\CatmullRom.cpp(64,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(44,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(45,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(46,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(88,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(89,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\Boids.h(90,19): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(145,28): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(161,67): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(419,20): warning C4018: '<': signed/unsigned mismatch
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(432,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(458,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(691,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(697,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\computer-graphic-project\submarine-simulator\src\main.cpp(721,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Particle.cpp
+  Physics.cpp
+  picopng.cpp
+  Render_Utils.cpp
+  Shader_Loader.cpp
+  skybox.cpp
+  Texture.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1947 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj)' or at 'D:\computer-graphic-project\submarine-simulator\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj)' or at 'D:\computer-graphic-project\submarine-simulator\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj)' or at 'D:\computer-graphic-project\submarine-simulator\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj) : warning LNK4099: PDB 'PhysXExtensions_static_32.pdb' was not found with 'PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj)' or at 'D:\computer-graphic-project\submarine-simulator\Release\PhysXExtensions_static_32.pdb'; linking object as if no debug info
+  grk-cw8.vcxproj -> D:\computer-graphic-project\submarine-simulator\Release\grk-cw8.exe
